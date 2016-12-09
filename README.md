@@ -1,7 +1,9 @@
 # CSVtoHTML
 
  
-This is Powershell script to create an HTML file from CSV(s) located in a directory
+This is Powershell script to create a HTML file from CSV(s) located in a directory.
+
+The script create an Table in HTML for each CSV file found in the folder defined.
 
 
 
