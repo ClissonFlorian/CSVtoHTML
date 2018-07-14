@@ -11,8 +11,9 @@ The script create an Table in HTML for each CSV file found in the folder defined
 
 You must specify the folder location which contains the CSV Files for that :
 
-- Open and Edit the below variable 
-```shell
+Open and Edit the below variable :
+
+```powershell
    $Pathfiles = $ScriptDir + "\Hyper-V_ExportFiles\Nodes\"
 ```
 
